@@ -136,7 +136,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <tbody>
             <tr>
                 <td><img src="../img/Class_Changes/wz_icewall.gif" alt="">Ice Wall</td>
-                <td>Cannot be used in Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest.</td>
+                <td>Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest.</td>
                 <td>Additionally cannot be used on MVP maps. </td>
             </tr>
             <tr>
