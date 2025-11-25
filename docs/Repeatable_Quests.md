@@ -45,6 +45,9 @@ Some turn-in items can be bought directly from NPCs. **Antelope Horns** cannot b
 - **Acorn** – Moscovia, Acorn Dealer (`/navi moscovia 208/182`)  
 - **Antelope Horn** – Niflheim, Tool Dealer (`/navi niflheim 218/197`)  
 
+!!! note
+    Antelope Horn is not affected by the Merchant skill Discount
+
 
 
 The following NPCs offer players a choice of how many monsters they want to hunt, with options of **50**, **100**, or **150**. All three options yield the same EXP per kill, with hunting **100 monsters** rewarding twice as much as hunting **50**.
@@ -68,22 +71,22 @@ For every **50 monsters** killed, players can gain up to **1 Base Level** and **
 | **Private Jeremy**   | /navi moc_fild11 57/138       |            25 |            60 | Golem             |            28,000  |           18,000 |                     560  |                    360  |
 | **Shone**            | /navi moc_fild17 208/346      |            25 |            60 | Hode              |            31,550  |           22,500 |                     631  |                    450  |
 | **Lemly**            | /navi moc_fild17 66/273       |            30 |            65 | Frilldora         |            60,000  |           46,000 |                   1,200  |                    900  |
-| **Li**               | /navi pay_fild10 108/357      |            35 |            70 | Dokebi            |            42,000  |           36,000 |                     840  |                    720  |
-| **Lella**            | /navi ayo_fild01 44/241       |            36 |            65 | Leaf Cat          |            25,740  |           31,512 |                     515  |                    630  |
-| **Cuir**             | /navi cmd_fild01 362/256      |            45 |            80 | Alligator         |           172,375  |          108,250 |                   3,448  |                  2,165  |
-| **Gandolf**          | /navi lhz_dun01 146/287       |            45 |            80 | Remover*          |           275,000  |          170,000 |                   5,500  |                  3,400  |
-| **Local Villager**    | /navi ein_fild01 43/249      |            60 |            74 | Demon Pungus      |           250,266  |          144,452 |                   5,005  |                  2,889  |
-| **Lilla**            | /navi um_fild01 35/281        |            60 |            85 | Dryad             |           234,855  |          126,905 |                   4,697  |                  2,538  |
-| **Shea**             | /navi tur_dun03 125/195       |            60 |            85 | Assaulter*        |           425,000  |          275,000 |                   8,500  |                  5,500  |
-| **Vegetable Farmer**  | /navi ein_fild06 82/171      |            70 |            85 | Goat              |           258,489  |          155,155 |                   5,170  |                  3,103  |
-| **Henry**            | /navi ice_dun03 140/26        |            70 |            95 | Ice Titan*        |           910,000  |          650,000 |                  18,200  |                 13,000  |
-| **Monica**           | /navi geffen 112/63           |            70 |            98 | Succubus*         |         1,325,000  |          950,000 |                  26,500  |                 19,000  |
-| **Miner**            | /navi beach_dun 269/71        |            75 |            97 | Medusa            |           515,700  |          352,275 |                  10,314  |                  7,046  |
-| **Jotun Tribesman**   | /navi mag_dun01 127/71       |            75 |            97 | Lava Golem        |           484,800  |          290,700 |                   9,696  |                  5,814  |
-| **Coal Miner**       | /navi mag_dun02 46/40         |            75 |            97 | Deleter           |           387,734  |          232,733 |                   7,755  |                  4,655  |
-| **Ptero**            | /navi abyss_03 117/31         |            75 |            97 | Gold Acidus*      |         1,285,000  |          815,000 |                  25,700  |                 16,300  |
-| **Kirby**            | /navi nyd_dun01 146/154       |            75 |            98 | Draco*            |           925,000  |          700,000 |                  18,500  |                 14,000  |
-| **Emmerich**         | /navi thor_v03 57/245         |            75 |            98 | Salamander*       |         2,150,000  |        1,550,000 |                  43,000  |                 31,000  |
+| **Li**               | /navi pay_fild10 108/357      |            35 |            70 | Dokebi            |            84,000  |           72,000 |                    1680  |                   1440  |
+| **Lella**            | /navi ayo_fild01 44/241       |            36 |            65 | Leaf Cat          |            51,480  |           630,24 |                     1030 |                   1260  |
+| **Cuir**             | /navi cmd_fild01 362/256      |            45 |            80 | Alligator         |           137,900  |           86,600 |                   2,758  |                  1,732  |
+| **Gandolf**          | /navi lhz_dun01 146/287       |            45 |            80 | Remover*          |           550,000  |          340,000 |                  11,000  |                  6,800  |
+| **Local Villager**    | /navi ein_fild01 43/249      |            60 |            74 | Demon Pungus      |           500,532  |          288,904 |                  10,010  |                  5,778  |
+| **Lilla**            | /navi um_fild01 35/281        |            60 |            85 | Dryad             |           524,970  |          283,670 |                  10,499  |                  5,673  |
+| **Shea**             | /navi tur_dun03 125/195       |            60 |            85 | Assaulter*        |           850,000  |          550,000 |                  17,000  |                 11,000  |
+| **Vegetable Farmer**  | /navi ein_fild06 82/171      |            70 |            85 | Goat              |         1,033,956  |          620,620 |                  20,679  |                 12,412  |
+| **Henry**            | /navi ice_dun03 140/26        |            70 |            95 | Ice Titan         |         3,640,000  |        2,600,000 |                  72,800  |                 52,000  |
+| **Monica**           | /navi geffen 112/63           |            70 |            98 | Succubus*         |         5,300,000  |        3,800,000 |                 106,000  |                 76,000  |
+| **Miner**            | /navi beach_dun 269/71        |            75 |            97 | Medusa            |         2,062,800  |        1,409,100 |                  41,256  |                 28,182  |
+| **Jotun Tribesman**   | /navi mag_dun01 127/71       |            75 |            97 | Lava Golem        |         1,939,200  |        1,162,800 |                  38,784  |                 23,256  |
+| **Coal Miner**       | /navi mag_dun02 46/40         |            75 |            97 | Deleter           |         1,550,936  |          930,932 |                  31,018  |                 18,618  |
+| **Ptero**            | /navi abyss_03 117/31         |            75 |            97 | Gold Acidus*      |         2,570,000  |        1,630,000 |                  51,400  |                 32,600  |
+| **Kirby**            | /navi nyd_dun01 146/154       |            75 |            98 | Draco*            |         3,700,000  |        2,800,000 |                  74,000  |                 56,000  |
+| **Emmerich**         | /navi thor_v03 57/245         |            75 |            98 | Salamander        |         8,600,000  |        6,200,000 |                 172,000  |                124,000  |
 
 ## Monster Hunting
 
