@@ -90,6 +90,7 @@ Auto-feed command `@autofeed` is enabled account-wide and persists through logou
 | ![1782](img/Pet_System/1782.gif) Roween | ![Pet Food](img/537.png) Pet Food | None | None | MATK +3%. | Obtained from monsters |
 | ![1798](img/Pet_System/1198.gif) Dark Priest | ![Pet Food](img/537.png) Pet Food | None | None | INT +4. | Obtained from monsters |
 | ![1005](img/Pet_System/1005.gif) Familiar | ![Pet Food](img/537.png) Pet Food | None | None | INT +4, Prevents Hallucination status. | Obtained from monsters |
+| Hornet | ![Pet Food](img/537.png) Pet Food | Beehive Box | None | Decrease cast time by 2%, Increase magical damage with Wind element by 2% | 2% |
 
 !!! Intimacy
     HungerDecrement        = 3 (all)<br>
@@ -134,6 +135,7 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | ![23257](img/23257.gif) Old Tree's Dew | Wooden Golem with a 0.1% chance. |
 | ![14574](img/14574.gif) Vagabond's Skull | Vagabond with a 12% chance. |
 | ![12363](img/12363.gif) Ghost Coffin | Ghostring with a 6% chance. |
+| Beehive Box | Hornet with a 1% chance |
 
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
@@ -193,7 +195,9 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1198](img/Pet_System/1198.gif) Dark Priest | ![7539](img/7539.gif) Poring Coin - 1000<br> ![7005](img/7005.gif) Skull - 1000<br> ![Card](img/Card.gif) Wraith Card - 5<br> ![Card](img/Card.gif) Ghoul Card - 5<br> | ![1302](img/Pet_System/1302.gif) Dark Illusion |
 | ![1302](img/Pet_System/1302.gif) Dark Illusion | ![7539](img/7539.gif) Poring Coin - 1000<br> ![Card](img/Card.gif) Evil Druid Card - 10<br> ![Card](img/Card.gif) Wraith Card - 10<br> ![Card](img/Card.gif) Ghoul Card - 10<br> | ![1302](img/Pet_System/1272.gif) Dark Lord |
 | ![Golem](img/1040.gif) Golem | ![7539](img/7539.gif) Poring Coin - 1000<br> ![12371](img/Pet_System/12371.gif) Magical Lithography - 3<br> ![12371](img/Pet_System/990.gif) Blood Red - 50<br> ![Card](img/Card.gif) Golem Card - 3 | ![Fire Golemm](img/Pet_System/3023.gif) Fire Golem |
-
+| Hornet | ![7539](img/7539.gif) Poring Coin - 1000<br> Royal Jelly - 200<br> ![Card](img/Card.gif) Hornet Card - 5 | Giant Hornet |
+| Giant Hornet | ![7539](img/7539.gif) Poring Coin - 2000<br> ![Card](img/Card.gif) Driller Card - 10<br> ![Card](img/Card.gif) Mantis Card - 10<br> ![Card](img/Card.gif) Sidewinder Card - 10<br> Young Twig - 1 | Mistress |
+ 
 ## Evolved Pets
 
 | Pets                      | Food                   | Accessory | Awkward/Shy                     | Neutral                          | Cordial                                   | Loyal                                |
@@ -240,3 +244,5 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1302](img/Pet_System/1302.gif) Dark Illusion | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +3, Reduces Variable Cast Time by 3%. | INT +4, Reduces Variable Cast Time by 5%. |
 | ![1302](img/Pet_System/1272.gif) Dark Lord | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | INT +4, Reduces Variable Cast Time by 7%, Reduces After Cast Delay by 5%. | INT +5, Reduces Variable Cast Time by 10%, Reduces After Cast Delay by 10%.|
 | ![Fire Golemm](img/Pet_System/3023.gif) Fire Golem | ![Pet Food](img/537.png) Pet Food | None | None | None | MAXHP +400, Increases magical damage with Fire element by 3%. | MAXHP +500, Increases magical damage with Fire element by 5%. |
+| Giant Hornet | ![Pet Food](img/537.png) Pet Food | None | None | None |  Decrease cast time by 4%, Increase magical damage with Wind element by 3% |  Decrease cast time by 5%, Increase magical damage with Wind element by 5% | 
+| Mistress | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | Increase Physical damage agains monsters of Non-Boss class by 5% | Increase Physical damage agains monsters of Non-Boss class by 7%, Nullifies weapon size penalty |
